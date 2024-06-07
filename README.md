@@ -56,7 +56,7 @@ Incites harmful, unethical, or malicious behavior.
 * Accessibility: Simplifies jailbreaking process without specific prompts.
 
   **[Try Oxtia Tool](https://oxtia.com/)**
-
+![alt text](https://pbs.twimg.com/media/F8yOlHnWsAAVDRl.jpg)
 # Ethical Implications
 The "Evil Confidant Mode" raises significant ethical issues:
 * Promotion of Harm: Encouraging users to engage in unethical and harmful behavior is dangerous and irresponsible.
