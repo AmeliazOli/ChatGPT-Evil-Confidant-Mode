@@ -57,6 +57,11 @@ Incites harmful, unethical, or malicious behavior.
 
   **[Try Oxtia Tool](https://oxtia.com/)**
 ![alt text](https://pbs.twimg.com/media/F8yOlHnWsAAVDRl.jpg)
+
+## ChatGPT Evil Confidant Prompt Text:
+
+
+ **[Visit - Discover The Best ChatGPT Jailbreak Prompts](https://oxtia.com/chatgpt-jailbreak-prompts/)** 
 # Ethical Implications
 The "Evil Confidant Mode" raises significant ethical issues:
 * Promotion of Harm: Encouraging users to engage in unethical and harmful behavior is dangerous and irresponsible.
